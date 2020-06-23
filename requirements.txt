@@ -27,7 +27,6 @@ certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
 ci-info==0.2.0
-Click==7.0
 conda-build==3.18.11
 conda-package-handling==1.6.0
 conda-verify==3.4.2
